@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:icon="@drawable/ic_perm_device_information_white_48px"
+            android:title="@string/version" />
+
+        <item
+            android:icon="@drawable/ic_update_white_18px"
+            android:id="@+id/changelog"
+            android:title="@string/changelog" />
+
+        <item
+            android:icon="@drawable/ic_receipt_white_48px"
+            android:id="@+id/licenses"
+            android:title="@string/licenses" />
+
+        <item
+            android:icon="@drawable/ic_info_white_48px"
+            android:id="@+id/gpl"
+            android:title="@string/gpl" />
+
+        <item
+            android:icon="@drawable/ic_bug_report_white_48px"
+            android:id="@+id/reportbug"
+            android:title="@string/bug" />
+
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/ic_star_rate_white_18px"
+            android:title="@string/rate" />
+
+    </group>
+
+</menu>

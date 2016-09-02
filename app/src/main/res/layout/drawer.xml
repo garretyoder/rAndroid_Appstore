@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="left"
+    android:background="?android:colorBackground"
+    android:clickable="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.design.widget.NavigationView
+            android:id="@+id/device_list"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:menu="@menu/drawer_main"
+            app:headerLayout="@layout/drawer_header" />
+
+        <android.support.design.widget.NavigationView
+            android:layout_alignParentBottom="true"
+            android:layout_above="@id/device_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:menu="@menu/drawer_footer" />
+
+    </RelativeLayout>
+
+</LinearLayout>

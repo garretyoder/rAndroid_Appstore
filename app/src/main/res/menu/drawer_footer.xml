@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:icon="@drawable/ic_phonelink_setup_white_24px"
+            android:title="@string/devices" />
+
+        <item
+            android:icon="@drawable/ic_info_white_48px"
+            android:title="@string/about" />
+
+        <item
+            android:icon="@drawable/ic_favorite_white_48px"
+            android:title="@string/donate" />
+
+        <item
+            android:icon="@drawable/ic_settings_white_24px"
+            android:title="@string/settings" />
+
+    </group>
+
+</menu>
