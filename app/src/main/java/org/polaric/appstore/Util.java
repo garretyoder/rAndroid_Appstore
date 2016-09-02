@@ -1,4 +1,4 @@
-package org.polaric.cluttr;
+package org.polaric.appstore;
 
 public class Util {
 

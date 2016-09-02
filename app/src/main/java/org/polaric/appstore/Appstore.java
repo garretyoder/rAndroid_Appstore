@@ -21,7 +21,7 @@ public class Appstore extends Application {
 
         if (!ATE.config(this, null).isConfigured()) {
             ATE.config(this,null)
-                    .primaryColorRes(R.color.md_teal_500)
+                    .primaryColorRes(R.color.md_blue_500)
                     .accentColorRes(R.color.md_pink_500)
                     .commit();
         }

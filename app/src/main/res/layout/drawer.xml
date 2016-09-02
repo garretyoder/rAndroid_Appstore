@@ -12,7 +12,7 @@
         android:layout_height="match_parent">
 
         <android.support.design.widget.NavigationView
-            android:id="@+id/device_list"
+            android:id="@+id/nav_main"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             app:menu="@menu/drawer_main"
@@ -20,7 +20,8 @@
 
         <android.support.design.widget.NavigationView
             android:layout_alignParentBottom="true"
-            android:layout_above="@id/device_list"
+            android:layout_above="@id/nav_main"
+            android:id="@+id/nav_footer"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             app:menu="@menu/drawer_footer" />

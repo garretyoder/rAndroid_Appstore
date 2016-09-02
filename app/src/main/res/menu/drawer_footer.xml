@@ -4,19 +4,13 @@
     <group android:checkableBehavior="single">
 
         <item
-            android:icon="@drawable/ic_phonelink_setup_white_24px"
-            android:title="@string/devices" />
-
-        <item
             android:icon="@drawable/ic_info_white_48px"
+            android:id="@+id/about"
             android:title="@string/about" />
 
         <item
-            android:icon="@drawable/ic_favorite_white_48px"
-            android:title="@string/donate" />
-
-        <item
             android:icon="@drawable/ic_settings_white_24px"
+            android:id="@+id/settings"
             android:title="@string/settings" />
 
     </group>

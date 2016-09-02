@@ -4,14 +4,19 @@
     <group android:checkableBehavior="single">
 
         <item
-            android:id="@+id/donate"
-            android:icon="@drawable/ic_favorite_white_48px"
-            android:title="@string/donate" />
+            android:icon="@drawable/ic_bug_report_white_48px"
+            android:id="@+id/reportbug"
+            android:title="@string/bug" />
 
         <item
             android:id="@+id/github"
             android:icon="@drawable/ic_github"
             android:title="@string/github" />
+
+        <item
+            android:icon="@drawable/ic_receipt_white_48px"
+            android:id="@+id/licenses"
+            android:title="@string/licenses" />
 
     </group>
 

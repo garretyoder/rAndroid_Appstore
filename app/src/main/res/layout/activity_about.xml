@@ -44,6 +44,7 @@
                             android:padding="8dp"/>
 
                         <TextView
+                            android:tag="text_color|accent_color"
                             android:paddingLeft="8dp"
                             android:textSize="30dp"
                             android:layout_gravity="center"
@@ -53,7 +54,7 @@
 
                     </LinearLayout>
 
-                    <org.polaric.cluttr.widgets.FullHeightNavView
+                    <org.polaric.appstore.widgets.FullHeightNavView
                         android:background="@android:color/transparent"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
@@ -76,16 +77,17 @@
                     android:layout_height="wrap_content">
 
                     <TextView
+                        android:tag="text_color|accent_color"
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:text="@string/author"/>
+                        android:text="@string/contribute"/>
 
-                    <org.polaric.cluttr.widgets.FullHeightNavView
-                        android:id="@+id/authornav"
+                    <org.polaric.appstore.widgets.FullHeightNavView
+                        android:id="@+id/contributenav"
                         android:background="@android:color/transparent"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        app:menu="@menu/author"/>
+                        app:menu="@menu/contribute"/>
 
                 </LinearLayout>
 
