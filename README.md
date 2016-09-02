@@ -8,6 +8,7 @@ Over at https://www.reddit.com/r/Android/comments/50rafp/meta_we_have_an_app_wik
 * /u/danster3
 * /u/plays2
 * /u/\_bitstream\_
+* /u/Ovzli
 * /u/russjr08
 * /u/dostal325
 * /u/mDarken
