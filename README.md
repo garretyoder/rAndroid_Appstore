@@ -5,3 +5,4 @@ Over at https://www.reddit.com/r/Android/comments/50rafp/meta_we_have_an_app_wik
 
 ##If you are interested in contributing, untill the mods set up a more organized form, please send a PR and add your reddit username to this list, and at the least, I will make sure they are aware of it and who wants to help!
 * /u/Multimoon
+* /u/danster3
