@@ -27,3 +27,4 @@ Send a PR with your code, and for the people who are serious about writing alot 
 * /u/dostal325
 * /u/mDarken
 * /u/Hogenbirk
+* /u/Bryan792
