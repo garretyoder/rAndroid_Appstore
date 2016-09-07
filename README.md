@@ -29,3 +29,4 @@ Send a PR with your code to https://github.com/d4rken/reddit-android-appstore
 * /u/jaysonthepirate
 * /u/ubcstudent123
 * /u/urFriendlyITGuy
+* /u/hexagon672
